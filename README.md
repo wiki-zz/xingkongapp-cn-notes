@@ -1,2 +1,14 @@
 # xingkongapp-cn-notes
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
